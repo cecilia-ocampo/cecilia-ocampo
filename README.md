@@ -1,4 +1,4 @@
-Banner de LinkedIn Licenciada en Marketing Minimalista Blanco y Negro.png
+![Banner](Banner de LinkedIn Licenciada en Marketing Minimalista Blanco y Negro.png)
 
 Sobre mí
 
