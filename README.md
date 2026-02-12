@@ -19,5 +19,7 @@ HTML y CSS básico
 Contacto
 
 Portafolio: https://www.figma.com/design/ySXSWUFxMAKnZokR51USDh/Projects-UX-UI---CECILIA-OCAMPO-%7C-C-9?m=auto&t=Re9OboVsUIGYJvY2-1
+
 LinkedIn: https://www.linkedin.com/in/cecilia--ocampo/
+
 Correo: ceyocampo@hotmail.com
