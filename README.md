@@ -1,3 +1,5 @@
+Banner de LinkedIn Licenciada en Marketing Minimalista Blanco y Negro.png
+
 Sobre mí
 
 Diseñadora UI/UX junior apasionada por crear interfaces claras, funcionales y visualmente coherentes. Actualmente estoy finalizando un bootcamp de UX/UI donde he desarrollado proyectos end-to-end desde investigación de usuarios hasta prototipos interactivos y design systems en Figma.
