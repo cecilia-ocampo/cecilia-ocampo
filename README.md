@@ -1,16 +1,23 @@
-## Hi there 👋
+Sobre mí
 
-<!--
-**cecilia-ocampo/cecilia-ocampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Diseñadora UI/UX junior apasionada por crear interfaces claras, funcionales y visualmente coherentes. Actualmente estoy finalizando un bootcamp de UX/UI donde he desarrollado proyectos end-to-end desde investigación de usuarios hasta prototipos interactivos y design systems en Figma.
 
-Here are some ideas to get you started:
+Me interesa especialmente el diseño de producto digital, la organización de interfaces y la creación de experiencias simples que resuelvan problemas reales. Disfruto trabajar en entornos colaborativos, iterar a partir de feedback y seguir aprendiendo herramientas que conecten diseño y tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente busco mi primera oportunidad profesional como UI/UX Designer junior en equipos remotos donde pueda aportar valor visual, seguir creciendo y participar en proyectos reales de producto.
+
+Tecnologías y herramientas
+
+Figma
+Wireframing
+Prototyping
+Design Systems
+UX Research
+Responsive Design
+HTML y CSS básico
+
+Contacto
+
+Portafolio: https://www.figma.com/design/ySXSWUFxMAKnZokR51USDh/Projects-UX-UI---CECILIA-OCAMPO-%7C-C-9?m=auto&t=Re9OboVsUIGYJvY2-1
+LinkedIn: https://www.linkedin.com/in/cecilia--ocampo/
+Correo: ceyocampo@hotmail.com
